@@ -29,11 +29,12 @@ Software developer passionate about creating innovative solutions to real-world 
 </div>
 
 ## 🔭 Current Project: NEU Reverse Course Transfer Database
-<!--
+
 <div align="center">
-  <img src= alt="Project Screenshot" width="600">
+  <img src=https://github.com/user-attachments/assets/c1b41dd7-7075-4d2f-a3a3-ad4974642e25 alt="Project Screenshot" width="600">
+
 </div>
--->
+
 ### Description
 I'm currently working on a **Transfer course database for Northeastern University Students** - A utility that allows students to determine what courses at other institutions can fulfil different course requirments at Northeastern.
 
@@ -64,9 +65,7 @@ I hope it will be very helpful to any and all who come across it!
 -->
 
 ### Try It Out
-<!--
-- 🌐 [Live Demo](https://yourprojectdemo.com)
--->
+- 🌐 [Live Site](https://transfercreditneu.acserver.net/)
 - 📦 [Front end repo](https://github.com/ACoullard/NEU_transfer_course_frontend)
 - 📦 [Back end repo](https://github.com/ACoullard/NEU_transfer_course_database)
 
