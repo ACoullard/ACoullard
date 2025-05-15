@@ -92,8 +92,14 @@ I hope it will be very helpful to any and all who come across it!
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-<!-- Add more badges for your skills -->
+
 <!--
+List of badge links:
+https://github.com/inttter/md-badges 
+
+-->
+<!-- Add more badges for your skills -->
+<!-- 
 ## 📫 Get in Touch
 
 - Email: your.email@example.com
