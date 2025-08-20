@@ -28,7 +28,7 @@ Software developer passionate about creating innovative solutions to real-world 
 
 </div>
 
-## 🔭 Current Project: NEU Reverse Course Transfer Database
+## 🔭 Featured Project: NEU Reverse Course Transfer Database
 
 <div align="center">
   <img src=https://github.com/user-attachments/assets/c1b41dd7-7075-4d2f-a3a3-ad4974642e25 alt="Project Screenshot" width="600">
