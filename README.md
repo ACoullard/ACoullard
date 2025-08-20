@@ -36,7 +36,7 @@ Software developer passionate about creating innovative solutions to real-world 
 </div>
 
 ### Description
-I'm currently working on a **Transfer course database for Northeastern University Students** - A utility that allows students to determine what courses at other institutions can fulfil different course requirments at Northeastern.
+I've recently completed a **Transfer course database for Northeastern University Students** - A utility that allows students to determine what courses at other institutions can fulfil different course requirments at Northeastern.
 
 A quick google search reveals that Northeastern themselves publish a similar online database, but any Northestern student who has been looking to take a summer course at local community college to clear out their gen-eds will know that the Northeastern's DB is heavily geared towards the question "what Northeastern credit can I get with a specific course from another institution", not the question "what courses elsewhere can I take to satisfy this Northeastern requirement". This project answers the second question without having to manually click through thousands of courses to see if they will give you the Northeastern credit you need. Hence the name "reverse"! 
 
