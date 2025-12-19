@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Andre Coullard👋
 
 ## About Me
-Software developer passionate about creating innovative solutions to real-world problems. Currently focusing on web development, self hosting, and observability. I'm always eager to collaborate on exciting projects.
+Software developer passionate about creating innovative solutions to real-world problems. Currently focusing on web development, self hosting, and graphics programming. I'm always eager to collaborate on exciting projects.
 - 😄 Pronouns: He/Him/His
 - 🌱 I’m currently learning Typscript, React, C++, and how to self-host
 - ⚡ Fun fact: I'm a big fan of indie games, fantasy/scifi books, hiking, Bethesda games, and fountain pens!
